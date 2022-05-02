@@ -1,2 +1,2 @@
-# PixiGame
+# 弾幕
 School project.
