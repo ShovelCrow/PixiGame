@@ -1,2 +1,2 @@
 # PixiGame
-Neigh.
+School project.
