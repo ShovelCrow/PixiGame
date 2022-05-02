@@ -1,2 +1,2 @@
 # 弾幕
-School project.
+school project.
